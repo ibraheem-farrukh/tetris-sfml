@@ -1,4 +1,4 @@
-const char title[] = "PF-Project, Fall-2022";
+const char title[] = "SFML - Tetris Game";
 
 //---Height and Width of the Actual Interactive Game---//
 const int M = 20;   //Number of rows for a piece to cover on the screen (not the entire screen) = 20
